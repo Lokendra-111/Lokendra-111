@@ -4,11 +4,11 @@
 ht### GitHub Stats:
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokendraRokaya&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lokendra-111&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraRokaya&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokendra-111&layout=compact&theme=radical)
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LokendraRokaya&theme=radical)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lokendra-111&theme=radical)
 
 
 <!--
