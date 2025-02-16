@@ -6,6 +6,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokendra-111&layout=compact&theme=radical)
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lokendra-111&theme=radical)
+---
+### Let's Connect!
+---
+- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=blue)](mailto:rokayalokendra0@gmail.com)  
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/prayush111/profilecard/)
+-
 
 
 <!--
