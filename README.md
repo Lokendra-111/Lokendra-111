@@ -1,11 +1,14 @@
 ## Hi there 👋
 ### GitHub Stats:
 ---
-https://github-readme-stats.vercel.app/api?username=LokendraRokaya&show_icons=true&theme=radical
+ht### GitHub Stats:
+---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraRokaya&layout=compact&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LokendraRokaya&show_icons=true&theme=radical)
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LokendraRokaya&theme=radical
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LokendraRokaya&layout=compact&theme=radical)
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LokendraRokaya&theme=radical)
 
 
 <!--
