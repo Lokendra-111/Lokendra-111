@@ -1,7 +1,8 @@
 ## Hi there it's me Lokendra👋
 ## About me
----
+
 Hi, I'm Lokendra Rokaya! I'm a BCA student with a diverse skillset in C, Java, front-end development (HTML, CSS, JavaScript), and WordPress. I enjoy tackling a variety of projects and am always eager to learn new technologies. Let's connect! 🤝
+---
 ### GitHub Stats:
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lokendra-111&show_icons=true&theme=radical)
