@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Lokendra Rokaya
 
-### 💻 BCA Student | Aspiring Full Stack Developer
+### 💻 BCA Student | Full Stack Web Developer (Learning Phase)
 
 ---
 
 ## 🚀 About Me
-I'm a passionate BCA student who enjoys building real-world projects and learning modern web technologies.  
-I focus on improving my skills in both frontend and backend development.
+I'm a BCA student from Nepal passionate about building real-world web applications.  
+I enjoy learning by doing and continuously improving my development skills.
 
 - 🌱 Currently learning **Django & Full Stack Development**
-- 💡 Interested in building useful and practical projects
-- 🎯 Goal: Become a skilled Software Developer
+- 💻 Working on real projects like **Parkify (Smart Parking System)**
+- 🎯 Focused on becoming a skilled Software Developer
 - 🤝 Open to collaboration and learning opportunities
 
 ---
@@ -18,19 +18,36 @@ I focus on improving my skills in both frontend and backend development.
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+- C  
+- Java  
+- Python  
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+- HTML  
+- CSS  
+- JavaScript  
+- Bootstrap  
+- Django (Backend)
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+### ⚙️ Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Google Colab  
+
+---
+
+## 🚗 Featured Project
+
+### 🅿️ Parkify – Smart Parking System
+A web-based smart parking management system built using Django.
+
+**Features:**
+- User authentication (Login/Signup)
+- Parking slot management
+- Dashboard system
+- Responsive UI using Bootstrap
+
+👉 *More improvements coming soon...*
 
 ---
 
@@ -42,12 +59,6 @@ I focus on improving my skills in both frontend and backend development.
 
 ---
 
-## 📌 Featured Projects
-- 🚗 Parkify – Smart Parking System (Django Web App)
-- 🌐 Personal Portfolio Website (Coming Soon)
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: [rokayalokendra0@gmail.com](mailto:rokayalokendra0@gmail.com)  
 - 📸 Instagram: [@prayush111](https://www.instagram.com/prayush111/profilecard/)
@@ -55,4 +66,4 @@ I focus on improving my skills in both frontend and backend development.
 ---
 
 ## ⚡ Fun Fact
-I learn best by building projects instead of just reading theory 😄
+I prefer building projects instead of only studying theory 😄
