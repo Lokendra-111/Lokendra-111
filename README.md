@@ -1,34 +1,58 @@
-## Hi there it's me Lokendra👋
-## About me
+# 👋 Hi, I'm Lokendra Rokaya
 
-Hi, I'm Lokendra Rokaya! I'm a BCA student with a diverse skillset in C, Java,Python, front-end development (HTML, CSS, JavaScript), and WordPress. I enjoy tackling a variety of projects and am always eager to learn new technologies. Let's connect! 🤝
+### 💻 BCA Student | Aspiring Full Stack Developer
+
 ---
-### GitHub Stats:
+
+## 🚀 About Me
+I'm a passionate BCA student who enjoys building real-world projects and learning modern web technologies.  
+I focus on improving my skills in both frontend and backend development.
+
+- 🌱 Currently learning **Django & Full Stack Development**
+- 💡 Interested in building useful and practical projects
+- 🎯 Goal: Become a skilled Software Developer
+- 🤝 Open to collaboration and learning opportunities
+
 ---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lokendra-111&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lokendra-111&layout=compact&theme=radical)
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lokendra-111&theme=radical)
 ---
-### Let's Connect!
+
+## 📌 Featured Projects
+- 🚗 Parkify – Smart Parking System (Django Web App)
+- 🌐 Personal Portfolio Website (Coming Soon)
+
 ---
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=blue)](mailto:rokayalokendra0@gmail.com)  
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/prayush111/profilecard/)
 
+## 📫 Connect With Me
+- 📧 Email: [rokayalokendra0@gmail.com](mailto:rokayalokendra0@gmail.com)  
+- 📸 Instagram: [@prayush111](https://www.instagram.com/prayush111/profilecard/)
 
+---
 
-<!--
-**Lokendra-111/Lokendra-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Fact
+I learn best by building projects instead of just reading theory 😄
