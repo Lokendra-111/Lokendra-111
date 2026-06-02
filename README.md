@@ -31,8 +31,7 @@ I enjoy learning by doing and continuously improving my development skills.
 
 ### ⚙️ Tools & Platforms
 - Git & GitHub  
-- VS Code  
-- Google Colab  
+- VS Code   
 
 ---
 
